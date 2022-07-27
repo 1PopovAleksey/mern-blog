@@ -1,2 +1,7 @@
-# react-blog
-full-stack blog
+# MERN Blog
+
+## Чтобы запусить проект локально
+
+### `npm install`
+
+### `npm run`
