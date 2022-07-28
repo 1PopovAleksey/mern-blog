@@ -4,4 +4,4 @@
 
 ### `npm install`
 
-### `npm run`
+### `node index.js`
